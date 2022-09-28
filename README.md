@@ -1,5 +1,5 @@
 ## neoG-Mark8-know your emoji   
-Created emoji guessing app whether you input or you click on emoji.It will display a message which emoji is selected.
+Created React App where it show's you 3 best places to dine in cities Hyderabad, Mumbai, Bangalore
 
 ## Technology Used:
 * HTML
