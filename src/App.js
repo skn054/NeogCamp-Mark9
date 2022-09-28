@@ -2,37 +2,37 @@ import "./styles.css";
 import { useState } from "react";
 const foodDB = {
   hyderabad: [
-    { name: "Hyderabad Chicken Biryani", rating: "4.5/5" },
-    { name: "Andhra Meals", rating: "4/5" },
-    { name: "Lukmi", rating: "4.25/5" }
+    { name: "Hyderabad Chicken Biryani", rating: "Rating: ⭐⭐⭐⭐" },
+    { name: "Andhra Meals", rating: "Rating: ⭐⭐⭐⭐⭐" },
+    { name: "Lukmi", rating: "Rating: ⭐⭐⭐" }
   ],
 
   Bangalore: [
     {
       name: "Mangalore Buns",
-      rating: "4/5"
+      rating: "Rating: ⭐⭐⭐⭐"
     },
     {
       name: "Dal Obbattu",
-      rating: "4.5/5"
+      rating: "Rating: ⭐⭐⭐⭐"
     },
     {
       name: "Uttapam",
-      rating: "4/5"
+      rating: "Rating: ⭐⭐⭐⭐⭐"
     }
   ],
   Mumbai: [
     {
       name: "Vada pav",
-      rating: "4.5/5"
+      rating: "Rating: ⭐⭐⭐⭐"
     },
     {
       name: "Batata Vada",
-      rating: "5/5"
+      rating: "Rating: ⭐⭐⭐⭐⭐"
     },
     {
       name: "Bhel Puri",
-      rating: "4.25/5"
+      rating: "Rating: ⭐⭐⭐⭐⭐"
     }
   ]
 };
